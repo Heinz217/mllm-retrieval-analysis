@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+.ipynb_checkpoints/
+
+# Data and checkpoints (not committed)
+/checkpoints/
+/coco-caption/
+/M-BEIR/
+/sae_checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Logs and outputs
+*.log
+runs/
+wandb/
+out/
