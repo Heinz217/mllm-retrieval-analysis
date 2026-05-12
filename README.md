@@ -215,10 +215,10 @@ This repository builds on the excellent work of [LamRA](https://github.com/Code-
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@misc{feng2025generativegiantsretrievalweaklings,
+@misc{feng2026generativegiantsretrievalweaklings,
       title={Generative Giants, Retrieval Weaklings: Why do Multimodal Large Language Models Fail at Multimodal Retrieval?}, 
-      author={Hengyi Feng and Zeang Sheng and Meiyi Qiang and Wentao Zhang},
-      year={2025},
+      author={Hengyi Feng and Zeang Sheng and Meiyi Qiang and Yang Li and Wentao Zhang},
+      year={2026},
       eprint={2512.19115},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
@@ -234,4 +234,11 @@ If you find this work useful, please cite our paper:
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2512.19115}, 
+} -->
+
+<!-- @article{feng2025generative,
+  title={Generative Giants, Retrieval Weaklings: Why do Multimodal Large Language Models Fail at Multimodal Retrieval?},
+  author={Feng, Hengyi and Sheng, Zeang and Qiang, Meiyi and Zhang, Wentao},
+  journal={arXiv preprint arXiv:2512.19115},
+  year={2025}
 } -->
